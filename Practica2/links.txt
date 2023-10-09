@@ -1,0 +1,3 @@
+- Página oficial de nmap: https://nmap.org/
+- Guía de referencia de nmap: https://nmap.org/man/es/index.html
+- Ejemplo de uso de tcpdump: https://rm-rf.es/tcpdump-ejemplos/
